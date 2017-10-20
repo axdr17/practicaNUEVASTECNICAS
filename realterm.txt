@@ -1,0 +1,4 @@
+first: at+creg?\r\n
+
+second: atd198;\r\n 
+
